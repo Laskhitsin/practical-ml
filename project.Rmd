@@ -1,7 +1,7 @@
 ---
 title: "Predictions using the Weight Lifting Exercises Dataset"
-author: "Tom Lous"
-date: "17 May 2016"
+author: "Lakshit Chandel"
+date: "11 Nov 2023"
 output: 
   html_document:
     keep_md: yes
